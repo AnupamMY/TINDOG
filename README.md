@@ -1,2 +1,2 @@
 # TINDOG
-I developed this website using Html, CSS, Bootstrap
+I developed this website using Html, CSS
